@@ -16,7 +16,7 @@ local offsets = {
 
 local item = spawner.Create({
     Item = {
-        Name = "Tip2",
+        Name = "Crucifix",
         Asset = tool,
         DestroyOnPickup = true,
         PickupOnTouch = true
